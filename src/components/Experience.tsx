@@ -24,7 +24,7 @@ const experiences: ExperienceEntry[] = [
     company: "Portnoff Law Associates",
     location: "King of Prussia, PA",
     role: "Full Stack Developer",
-    period: "May 2025 - Present",
+    period: "March 2025 - Present",
     icon: <FaBuilding />,
     bullets: [
       "Automating manual processes to improve efficiency and accuracy of the firm's operations.",

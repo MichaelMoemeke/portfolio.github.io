@@ -1,4 +1,3 @@
-import React from "react";
 import { About } from "./components/About";
 import { AnimatedSection } from "./components/AnimatedSection";
 import { Contact } from "./components/Contact";
@@ -38,6 +37,7 @@ function App() {
           height: "100vh",
           display: "grid",
           placeItems: "center",
+          padding: "1rem",
         }}
       >
         <main
